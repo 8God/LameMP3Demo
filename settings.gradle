@@ -1,1 +1,1 @@
-include ':app', ':liblamemp3'
+include ':app', ':FFmpegAndroid'
